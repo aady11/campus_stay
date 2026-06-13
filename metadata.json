@@ -1,0 +1,6 @@
+{
+  "name": "CampusStay Portal",
+  "description": "An integrated multi-role hostel management suite featuring unified portals for Students, Parents, Wardens, Maintenance Staff, and System Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
